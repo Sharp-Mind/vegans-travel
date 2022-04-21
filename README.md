@@ -3,8 +3,8 @@
 ## Стек
 
 * React
-* Python>3.5
-* Django<3.0
+* Python 3.10
+* Django 4.0.3
 * VSCode
 * SQLite3
 
