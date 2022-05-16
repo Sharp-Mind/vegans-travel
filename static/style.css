@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 5px;
+    padding: 5px;
+    background-color: aqua;
+}
+
+.post_div {
+    border: 1px solid black;
+}
